@@ -19,12 +19,16 @@ Modified
 ![Modified_School_Summary](https://user-images.githubusercontent.com/99751636/161308775-745357c5-da33-4b83-bd8f-ce76c5ac65ea.png)
 * You can see that for the most part the school summary went unaffected. That is expected, as in this summary we are breaking down results school by school, and results from Thomas High School wouldn't affect the scores of, say, Griffin High School. The only scores that would be affected in this summary would only be those specific to Thomas High School.
 ### How did replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-* 
+Original
+![Original_Top_Performers](https://user-images.githubusercontent.com/99751636/161318665-5370cce9-9e41-447d-bb26-934670e7bb2c.png)
+Modified
+![Modified_Top_Performers](https://user-images.githubusercontent.com/99751636/161318696-c1a8ecd4-6e62-4103-ba80-7b59b1956db0.png)
+* When comparing the top performing schools in the district you can see Thomas High School's spot remained unchanged. Their overall passing percentage dropped by about 0.3% but it wasn't enough to drop them from the number 2 spot. 
 ### How did replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-* 
+* This was only affected because THS's reading and math scores for freshman were removed. Removing freshman scores should not have an effect on the scores of sophomores, juniors, and seniors
 #### Scores by school spending
-* 
+* Looking at the data, rounding to 1 decimal place, the original and modified data sets yielded the same results for scores by school spending. Meaning, if there was an affect, it wasn't very significant.
 #### Scores by school size
 * 
 #### Scores by school type
