@@ -7,9 +7,17 @@ This analysis will play a role in the school district's decision making regardin
 
 ## Results
 ### How was the district summary affected?
-* 
+Original
+![Original_District Summary](https://user-images.githubusercontent.com/99751636/161307424-12bc7941-12d3-4f28-8a00-15df61700c97.png)
+Modified
+![Modified_District Summary](https://user-images.githubusercontent.com/99751636/161307473-f5266f01-29ca-4e43-b1ee-031bbc13f64e.png)
+* You can see the student count and the budget remained the same between the two analyses. While we removed the tests scores from the freshman at THS, we still will include them for this particular bit of data. Because those students' scores were removed, however, they were not counted when analyzing the results of their tests, which is where you see the difference between the modified and original data sets. The scores in the modified set are lower than they are in the original by fractions of a percent.
 ### How was the school summary affected?
-* 
+Original
+![Original_School_Summary](https://user-images.githubusercontent.com/99751636/161308703-c3980c4b-0b29-4b28-b578-e50c6444536f.png)
+Modified
+![Modified_School_Summary](https://user-images.githubusercontent.com/99751636/161308775-745357c5-da33-4b83-bd8f-ce76c5ac65ea.png)
+* You can see that for the most part the school summary went unaffected. That is expected, as in this summary we are breaking down results school by school, and results from Thomas High School wouldn't affect the scores of, say, Griffin High School. The only scores that would be affected in this summary would only be those specific to Thomas High School.
 ### How did replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * 
 ### How did replacing the ninth-grade scores affect the following:
