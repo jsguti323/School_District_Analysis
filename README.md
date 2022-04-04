@@ -29,9 +29,8 @@ Modified
 * This was only affected because THS's reading and math scores for freshman were removed. Removing freshman scores should not have an effect on the scores of sophomores, juniors, and seniors
 #### Scores by school spending
 * Looking at the data, rounding to 1 decimal place, the original and modified data sets yielded the same results for scores by school spending. Meaning, if there was an affect, it wasn't very significant.
-#### Scores by school size
-* 
-#### Scores by school type
+#### Scores by school size and type
+* In both categories, the data appeared to give identical results in both the original and the modified data sets.
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Our original data set we analyzed had test scores from Thomas High School freshman and the modified data set did not. Though there were some differences, nothing really significant. Looking at just Thomas High School, average math scores dropped, and so did the percentage of students who passed the reading and math tests. This also led to a drop in the percentage of students who passed both tests. The changes in data at the school level had an impact on the scores of the district as a whole, but nothing significant. For example, with the original data we had 85.8% of students in the district passing the reading exam, and with the new data we had 85.7% of the students passing. So yes, there is a difference, but nothing significany. 
